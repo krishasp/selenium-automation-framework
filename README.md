@@ -39,6 +39,8 @@ Clean and scalable structure
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/57653491-abb3-4c9a-a7c9-ce5ce4ccca36" />
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c5741a8e-5ce5-48a3-845f-977bd99f5408" />
+
 
 
 ## How to Run
