@@ -37,9 +37,10 @@ Clean and scalable structure
 
 ## Test Execution Report
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/57653491-abb3-4c9a-a7c9-ce5ce4ccca36" />
+<img width="1366" height="768" alt="report" src="https://github.com/user-attachments/assets/877d23ee-2253-4139-b49f-4524c9220a73" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c5741a8e-5ce5-48a3-845f-977bd99f5408" />
+<img width="1366" height="768" alt="test-run" src="https://github.com/user-attachments/assets/4410b8e0-f32e-4425-813e-42f7988afff9" />
+
 
 
 
